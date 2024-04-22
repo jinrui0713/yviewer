@@ -6,7 +6,7 @@
 body{
   margin:10px auto;
   width: 100%;
-  max-width:800px;
+  max-width:1000px;
   transition: .5s;
 }
 body > *{
@@ -35,7 +35,7 @@ img.dotbydot{
 .flex-view > li > img{
   vertical-align: bottom;
 }
-@media only screen and (max-width : 800px) {
+@media only screen and (max-width : 1000px) {
   body > img.dotbydot{
     width: 100%;
   }
